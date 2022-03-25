@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+/*=======================================VARIABLES CSS=======================================*/
+:root{
+    --header-height: 3.5rem;
+
+    /*=============Colors=============*/
+    /*Color mode HSL(Hue, Saturation, lightness)*/
+    /*
+        Purple: hsl(250, 66%, 75%)
+        Blue:   hsl(207, 90%, 72%)
+        Pink:   hsl(356, 66%, 75%)
+        Teal:   hsl(174, 63%, 62%)
+    */
+    --first-hue: 250;
+    --second-hue: 219;
+    --saturation: 66%;
+    --lightness: 75%;
+
+    ---first-color: hsl(var(--first-hue), var(--saturation), var(--lightness));
+    ---first-color-alt: hsl(var(--first-hue), var(--saturation), 71%);
+    ---title-color: hsl(var(--second-hue), 15%, 95%);
+    ---text-color: hsl(var(--second-hue), 8%, 75%);
+    ---text-color-light: hsl(var(--second-hue), 4%, 55%);
+    ---body-color: hsl(var(--second-hue), 48%, 8%);
+    ---container-color: hsl(var(--second-hue), 32%, 12%);
+
+}

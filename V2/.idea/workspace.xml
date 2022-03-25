@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cd02e57-5b6c-4542-b41f-2389e6c5c9f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/css/media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/Non confirmé 867174.crdownload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/logo_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/logo__.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/logo___.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/portrait.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/portrait.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26tHSHbd68M3OHY5wF08XmWtFpF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cd02e57-5b6c-4542-b41f-2389e6c5c9f0" name="Changes" comment="" />
+      <created>1648235961530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648235961530</updated>
+      <workItem from="1648235962587" duration="2185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
