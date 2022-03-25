@@ -1,0 +1,286 @@
+/**BODY**/
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration:none;
+    color: #67F891;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-size: 30px;
+    width: 500px;
+}
+
+ul.show{
+    display: block;
+}
+
+h1{
+    font-size: 90px;
+    margin: 0;
+}
+
+h2{
+    font-size: 50px;
+    color: #f1f2f6;
+}
+
+section{
+    background-color: #f1f2f6;
+}
+
+p{
+    margin: 0;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+hr{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/***HAMBURGER***/
+.hamburger{
+    display: none;
+}
+
+.hamburger:focus{
+    outline: 0;
+}
+
+/***LOGO***/
+#logo{
+    height: 80px;
+    margin: 30px;
+    margin-left: 80px;
+    padding: 5px;
+    border: solid 1px #67F891;
+}
+
+/***PORTRAIT***/
+.headshot-container{
+    display: flex;
+    align-items: center;
+}
+
+#headshot{
+    width: 200px;
+    box-shadow: 5px 5px 20px #808080;
+    border-radius: 15px;
+    border: solid 2px #f1f2f6;
+    margin-left: 80px;
+}
+
+.hero{
+    height: 100vh;
+    background-color: #1c1d25;
+    color: #67F891;
+    font-size: 40px;
+}
+
+.hero-area{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.hero-text{
+    margin-left: 80px;
+    margin-bottom: 200px;
+}
+
+.hero-text p{
+    color: #f1f2f6;
+}
+.socials{
+    padding-bottom: 200px;
+}
+
+.social{
+    margin: 20px;
+}
+
+.socials-logo{
+    background-color: #67F891;
+}
+
+/***SUB-SECTION***/
+.sub-section{
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+    color: #1C1D25;
+}
+
+.sub-section-title{
+    color: #1C1D25  ;
+}
+
+.sub-section-alternative{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+/***PROJECTS***/
+.project-container{
+    display: flex;
+    justify-content: center;
+}
+
+.project-card{
+    width: 300px;
+    height: 500px;
+    background-color: #1C1D25;
+    color: #f1f2f6;
+    box-shadow: 5px 5px 20px #808080;
+    margin: 35px;
+}
+
+.project-image{
+    margin-top: 25px;
+    width: 250px;
+    border-radius: 125px;
+}
+
+.project-link{
+    text-decoration:none;
+    color: #67F891;
+}
+
+.information{
+
+}
+
+.subtext{
+    font-size: 15px;
+    font-weight: 300;
+}
+
+/***BUTTONS***/
+.button{
+    width: 200px;
+    height:55px;
+    border: solid 1px #67F891;
+    border-radius: 30px;
+    background-color: #67F891;
+    color: #1C1D25;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 20px;
+    padding-top: 5px;
+}
+
+.button:hover{
+    background-color:#1C1D25;
+    color: #67F891;
+}
+
+.button:active{
+    background-color: #A9A9A9;
+    color: #808080;
+}
+
+/***FOOTER***/
+footer{
+    padding: 80px;
+    height: 300px;
+    text-align: center;
+    background-color: #1C1D25;
+}
+
+
+/***RESPONSIVE***/
+@media only screen and (max-width: 1000px) {
+    .project-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+.project-image {
+    margin-top: 25px;
+    width: 250px;
+    border-radius: 125px;
+}
+
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #f1f2f6;
+}
+
+.hamburger {
+    display: none;
+}
+
+.hamburger:focus{
+    outline: 0;
+}
+
+@media only screen and (max-width: 1000px) {
+    .hero-area{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .socials{
+        display: flex;
+        flex-direction: row;
+        margin-left: 200px;
+    }
+
+    .hamburger {
+        display: block;
+        border: 0;
+        background-color: transparent;
+        color: #f1f2f6;
+        font-size: 30px;
+        margin: 20px;
+        align-self: flex-end;
+    }
+
+    ul {
+        display: none;
+        background-color: #2b2c38;
+        margin: 0px;
+    }
+
+    ul.show {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column-reverse;
+        background-color: #2b2c38;
+    }
+
+    #logo {
+        display: none;
+    }
+
+    .project-container{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
